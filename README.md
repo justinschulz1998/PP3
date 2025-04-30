@@ -212,11 +212,11 @@ After it finishes, us `ls` to inspect the directory.
 
 <details>
     <summary>What changes in your pdf, if you change the documentclass to <code>book</code></summary>
-    ......
+    Die Seitenzahl erhöht sich und der erstelle und der Tex sind auf unterschiedlichen Seiten
 </details>
 <details>
     <summary>What changes in your pdf, if you add <code>\section{Intro}</code> after <code>\maketitle</code></summary>
-    ......
+    Es wird eine Teilüberschrift erstellt mit der Teilüberschrift intro 
 </details>
 
 
