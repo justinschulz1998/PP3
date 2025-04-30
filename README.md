@@ -114,7 +114,8 @@ For more detailed information on SVG structure and elements, you can refer to th
 <details>
     <summary>Your SVG Code</summary>
     <code>
-    ......
+    ![Screenshot (227)](https://github.com/user-attachments/assets/324d2e02-11bc-44bf-a540-d28f75d3581d)
+
     </code>
 </details>
 
@@ -212,14 +213,14 @@ After it finishes, us `ls` to inspect the directory.
 
 <details>
     <summary>What changes in your pdf, if you change the documentclass to <code>book</code></summary>
-    Die Seitenzahl erhöht sich und der erstelle und der Tex sind auf unterschiedlichen Seiten
+    Die Seitenzahl erhöht sich und der ersteller und der Text sind auf unterschiedlichen Seiten
 </details>
 <details>
     <summary>What changes in your pdf, if you add <code>\section{Intro}</code> after <code>\maketitle</code></summary>
-    Es wird eine Teilüberschrift erstellt mit der Teilüberschrift intro 
+    Es wird eine Teilüberschrift erstellt mit der Teilüberschrift intro. 
 </details>
 
-
+>Ende Der Zeit
 ### Task 5: 
 If you are running on a Windows machine, make sure to install `vim` for Windows from the [official `vim` repository](https://github.com/vim/vim-win32-installer/releases).
 Scroll down until you see the _Assets_ and use the `_64.exe` or `_x86.exe`, depending on your system. 
