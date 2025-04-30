@@ -126,18 +126,18 @@ It is an easy and lightweight syntax, to instruct a display software to render t
 
 <details>
     <summary>How does prepending hashes (<code>#</code>) affect the display?</summary>
-    ......
+    Hashes zeigen Überschriften an.
 </details>
 <details>
     <summary>How do you mark italic or bold font?</summary>
     <code>
-    ......
+    Fette Schrift wird mit ** vor und nach dem Satz geschrieben also **Fett** und kursiv wird mit einem * vor und danach geschrieben also *kursiv*
     </code>
 </details>
 <details>
     <summary>Which different ways are there to generate listings and tables?</summary>
     <code>
-    ......
+    Tabellen können wie bereits geschehen mit | und - Strichen gezeichnet werden. In diesem Textdokument ist noch > zum erstellen eines Hinweises verwendet.
     </code>
 </details>
 
